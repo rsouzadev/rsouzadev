@@ -7,8 +7,7 @@
 * From 2015 to 2021 I continued to develop my career as an English Teacher and as a Translator. In the same year, I got the long-awaited opportunity to enter the Information Technology field. This transition was not easy for me as this change happened recently during the pandemic and I was 37 years old with 2 children...Well, it was very challenging and that was a little bit of my story! 🌱 
 
 - 📫 How to reach me=> raphaenglish@gmail.com 
-- rsouza-dev@outlook.com
-- https://www.linkedin.com/in/rsouza-dev/
+- https://www.linkedin.com/in/rsouza-international-customer-service
 
 <!---
 rsouzadev/rsouzadev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
