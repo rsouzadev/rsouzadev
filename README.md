@@ -29,6 +29,8 @@ Curiosity has always been the driving force behind my professional journey. Toda
 
 - LinkedIn: https://www.linkedin.com/in/raphaelsouzaqa/
 - Email: raphaenglish@gmail.com
+- 
+Former IBM Professional | Open to QA Opportunities
 
 <!---
 rsouzadev/rsouzadev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
